@@ -26,13 +26,6 @@ The dataset comprises 80 observations and includes the following features:
   - **Ad Impression (million)**: Also shows a significant positive effect (p-value < 0.001).
   - **Character_A**: Not statistically significant (p-value = 0.167).
 
-### Model Equation
-
-The model can be expressed as follows:
-
-\[
-\text{Views_show} = -266100 + 151000 \times \text{Weekend} - 29900 \times \text{Character_A} + 364.467 \times \text{Ad_impression_million}
-\]
 
 ## Conclusion
 
@@ -52,8 +45,4 @@ To run the analysis, ensure you have the following libraries installed:
 2. Install the required libraries.
 3. Run the analysis script.
 
-```bash
-git clone <repository-url>
-cd <repository-directory>
-pip install -r requirements.txt
-python analysis.py
+
