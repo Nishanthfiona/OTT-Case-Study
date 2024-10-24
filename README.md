@@ -58,14 +58,8 @@ The OLS regression analysis provides valuable insights into what drives video vi
 To run the analysis, ensure you have the following libraries installed:
 
 - `pandas`
-- `statsmodels`
+- `statsmodels` 
 - `numpy`
-
-## How to Run
-
-1. Clone the repository.
-2. Install the required libraries using `pip install -r requirements.txt`.
-3. Run the analysis script to reproduce the results.
-
+- `python`
 
 
